@@ -1,5 +1,5 @@
-let numero = Number(prompt("Digite um numero"))
-
-for(let i=0; i < numero; i++){
-    console.log(i+1)
+let numero = 50
+for(let i=0; i <= numero; i+=5){
+    console.log(i)
 }
+
