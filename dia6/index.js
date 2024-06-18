@@ -1,5 +1,5 @@
-let numero = 50
-for(let i=0; i <= numero; i+=5){
+let numero = 0
+for(let i=50; i >= numero; i-=5){
     console.log(i)
 }
 
